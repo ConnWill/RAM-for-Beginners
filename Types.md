@@ -4,7 +4,7 @@ There are two forms of RAM that are used in the modern day **Static Ram (SRAM)**
 
 ## Static Ram (SRAM)
 
-Data in static ram is stored using a six transistor memory cell, which uses the metal oxide semiconductor field effect transistor. It is more expensive than DRAM, however it requires far less power and is generally faster. SRAM is designed to hold its data permanently in the presence of power. Due to the price of SRAM, it is only used for a computers ##cache (used to reduce time to access main memory)## and ##Internal registers (provides the fastest way to access data)##
+Data in static ram is stored using a six transistor memory cell, which uses the metal oxide semiconductor field effect transistor. It is more expensive than DRAM, however it requires far less power and is generally faster. SRAM is designed to hold its data permanently in the presence of power. Due to the price of SRAM, it is only used for a computers **cache (used to reduce time to access main memory)** and **Internal registers (provides the fastest way to access data)**
 
 ## Dynamic Ram (DRAM)
 
